@@ -1,0 +1,12 @@
+C:\Users\Rogelio\source\repos\PaymentTest\PaymentTest\PaymentTest\bin\Debug\netstandard2.0\PaymentTest.deps.json
+C:\Users\Rogelio\source\repos\PaymentTest\PaymentTest\PaymentTest\bin\Debug\netstandard2.0\PaymentTest.dll
+C:\Users\Rogelio\source\repos\PaymentTest\PaymentTest\PaymentTest\obj\Debug\netstandard2.0\PaymentTest.csprojAssemblyReference.cache
+C:\Users\Rogelio\source\repos\PaymentTest\PaymentTest\PaymentTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Rogelio\source\repos\PaymentTest\PaymentTest\PaymentTest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Rogelio\source\repos\PaymentTest\PaymentTest\PaymentTest\obj\Debug\netstandard2.0\PaymentTest.csproj.CoreCompileInputs.cache
+C:\Users\Rogelio\source\repos\PaymentTest\PaymentTest\PaymentTest\obj\Debug\netstandard2.0\PaymentTest.AssemblyInfoInputs.cache
+C:\Users\Rogelio\source\repos\PaymentTest\PaymentTest\PaymentTest\obj\Debug\netstandard2.0\PaymentTest.AssemblyInfo.cs
+C:\Users\Rogelio\source\repos\PaymentTest\PaymentTest\PaymentTest\bin\Debug\netstandard2.0\PaymentTest.pdb
+C:\Users\Rogelio\source\repos\PaymentTest\PaymentTest\PaymentTest\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Rogelio\source\repos\PaymentTest\PaymentTest\PaymentTest\obj\Debug\netstandard2.0\PaymentTest.dll
+C:\Users\Rogelio\source\repos\PaymentTest\PaymentTest\PaymentTest\obj\Debug\netstandard2.0\PaymentTest.pdb
